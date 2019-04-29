@@ -1,0 +1,2 @@
+json_key_file("api-7136685714501775835-724057-ed5f64206adc.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.bkongara.smartyoutubesearch") # e.g. com.krausefx.app
